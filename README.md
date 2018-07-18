@@ -1,1 +1,2 @@
 # gitbot
+Simple bot.
